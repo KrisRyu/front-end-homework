@@ -1,0 +1,64 @@
+<p>
+    <span>
+    <button>Trade NLP Trade</button> 
+    <button>NLP Trade</button>
+    </span>
+</p> 
+<span>Client Name</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+
+<span>Ticker</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+<span>RIC</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+<span>Size</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+<span>Price</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+<span>Currency</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+<span>Issuer Sector</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+<span>Saleperson</span>
+<div style="border: 1px solid black; padding: 5px; display: inline-block;">
+    <span>text input</span>
+  </div>
+<span>HT/PT</span>
+
+<span>
+    <button>Buy</button> 
+    <button>Sell</button>
+</span>
+<p>
+    <span>
+        <button>1D</button>
+        <button>1W</button>
+        <button>2W</button>
+        <button>1M</button>
+        <button>3M</button>
+        <button>6M</button>
+        <button>1Y</button>
+        <button>YTD</button>
+    </span>
+</p>
+
+<p> <strong>Date Client Name Client Side Ticker RIC Size Price Notional USD Currency Issuer Sector Salesperson HT/PT</strong>.</p>
+<p>Data Client Name Buy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ticker Ric Size 1,300.24 1,300.78&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currency Issuer Sector Salesperson HT/PT</p>
+<p>Data Client Name Buy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ticker Ric Size 1,300.24 1,300.78&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currency Issuer Sector Salesperson HT/PT</p>
+<p>Data Client Name Buy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ticker Ric Size 1,300.24 1,300.78&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currency Issuer Sector Salesperson HT/PT</p>
+<p>Data Client Name Buy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ticker Ric Size 1,300.24 1,300.78&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currency Issuer Sector Salesperson HT/PT</p>
+<p>Total Buy:1,300.26 Total Sell:1,300.26 Net Quantity: 1,300.26 Total Buy Notional:1,300.26 Total Sell Notional:1,300.26 Net Notional:1,300.26 Total Records:4</p>
