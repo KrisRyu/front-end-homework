@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test</title>
+</head>
+<body>
+<h2>Tradition Trade NLP Trade</h2>
+<form>
+  <label for="ClientName">ClientName：</label>
+  <input type="text" id="ClientName" name="ClientName" placeholder="Text input">
+
+  <label for="Ticker">Ticker：</label>
+  <input type="text" id="Ticker" name="Ticker" placeholder="Text input">
+
+  <label for="RIC">RIC：</label>
+  <input type="text" id="RIC" name="RIC" placeholder="Text input">
+
+  <label for="Size">Size：</label>
+  <input type="text" id="Size" name="Size" placeholder="Text input">
+
+  <label for="Price">Price：</label>
+  <input type="text" id="Price" name="Price" placeholder="Text input">
+
+  <label for="IssueSector">IssueSector：</label>
+  <input type="text" id="IssueSector" name="IssueSector" placeholder="Text input">
+
+  <label for="Salesperson">Salesperson：</label>
+  <input type="text" id="Salesperson" name="SalesPerson" placeholder="Text input">
+
+  <label for="gender">HT/PT：</label>
+  <select id="gender" name="gender">
+    <option value="male">HT</option>
+    <option value="female">PT</option>
+  </select>
+
+  <button type="button">Buy</button>
+  <button type="button">Sale</button>
+
+</form>
+
+<hr>
+
+<p>1D 1W 2W 1M 3M 6M 1Y YTD</p>
+
+<table id="data-table">
+  <tr>
+    <th>Date</th>
+    <th>Client</th>
+    <th>Name</th>
+    <th>Client Side</th>
+    <th>Ticker</th>
+    <th>RIC</th>
+    <th>Size</th>
+    <th>Price</th>
+    <th>Notional USD</th>
+    <th>Currency</th>
+    <th>IssueSector</th>
+    <th>Salesperson</th>
+    <th>HT/PT</th>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Client</td>
+    <td>Name</td>
+    <td>Buy</td>
+    <td>Ticker</td>
+    <td>RIC</td>
+    <td>Size</td>
+    <td>1,300.24</td>
+    <td>1,300.78</td>
+    <td>Currency</td>
+    <td>IssueSector</td>
+    <td>Salesperson</td>
+    <td>HT/PT</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Client</td>
+    <td>Name</td>
+    <td>Buy</td>
+    <td>Ticker</td>
+    <td>RIC</td>
+    <td>Size</td>
+    <td>1,300.24</td>
+    <td>1,300.78</td>
+    <td>Currency</td>
+    <td>IssueSector</td>
+    <td>Salesperson</td>
+    <td>HT/PT</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Client</td>
+    <td>Name</td>
+    <td>Buy</td>
+    <td>Ticker</td>
+    <td>RIC</td>
+    <td>Size</td>
+    <td>1,300.24</td>
+    <td>1,300.78</td>
+    <td>Currency</td>
+    <td>IssueSector</td>
+    <td>Salesperson</td>
+    <td>HT/PT</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>Client</td>
+    <td>Name</td>
+    <td>Buy</td>
+    <td>Ticker</td>
+    <td>RIC</td>
+    <td>Size</td>
+    <td>1,300.24</td>
+    <td>1,300.78</td>
+    <td>Currency</td>
+    <td>IssueSector</td>
+    <td>Salesperson</td>
+    <td>HT/PT</td>
+  </tr>
+
+</table>
+
+<p>Total Buy: 1,300.26 Total Sel: 1,300.26 Net Quantity: 1,300.2 Total Buy Notional: 1,300.26 Total Sel Notional: 1,300.26 Net Notional 1,300.26 Total Records: 4</p>
+
+</body>
+</html>
+
